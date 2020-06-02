@@ -1,11 +1,10 @@
 import '../../abstract/Beverage.dart';
 
-///
-/// Cafe torado
-///
+/// Café que implementa pattern decorator sobre um
+/// contrato co a interface de IBeverage => cafés
 class DarkRoast extends IBeverage {
   DarkRoast() {
-    description = 'Coffee dark roast';
+    description = 'Coffee Dark Roast';
   }
 
   @override
