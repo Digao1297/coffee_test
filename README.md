@@ -4,9 +4,10 @@
 <img src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" height="200" width="270">
 </p>
 
-
 ## :bookmark_tabs: Sumário
  - [Como configurar](#gear-como-configurar)
+ - [Estrutura de Pastas](#open_file_folder-estrutura-de-pastas)
+ - [Como Executar](#factory-como-executar)
  
 ## :gear: Como configurar
  
@@ -36,9 +37,14 @@ $ pub run test
 
 ### :hammer: Funcionamento:
 
-#### :white_check_mark: Testes realizados co sucesso :tada:
+#### :heavy_check_mark: Testes realizados com sucesso :tada:
 
 ![dart](https://user-images.githubusercontent.com/30250307/83566499-7af4e000-a4f6-11ea-9b48-45ecfa1d08c7.gif)
+
+#### :heavy_multiplication_x: Testes realizados com erro :triumph:
+
+![error](https://user-images.githubusercontent.com/30250307/83567037-551c0b00-a4f7-11ea-8e2f-29fb26f9e68f.gif)
+
 
 
 
