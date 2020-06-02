@@ -16,7 +16,6 @@
  Primeiramente clone ou faça download do repositorio.
  ```
  https://github.com/Digao1297/coffee_test.git
- 
 ```
  Depois disso, você pode instalar as dependências (via terminal) executando o seguinte comando na pasta raiz do projeto
 ```
