@@ -33,3 +33,12 @@ Para executar os __testes__ entre na raiz do projeto e rode o comando:
 ```
 $ pub run test
 ```
+
+### :hammer: Funcionamento:
+
+#### :white_check_mark: Testes realizados co sucesso :tada:
+
+![dart](https://user-images.githubusercontent.com/30250307/83566499-7af4e000-a4f6-11ea-9b48-45ecfa1d08c7.gif)
+
+
+
